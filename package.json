@@ -1,0 +1,26 @@
+{
+  "name": "pooling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuadnafiz98/postgresql-pooling.git"
+  },
+  "keywords": [],
+  "author": "fuadnafiz98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuadnafiz98/postgresql-pooling/issues"
+  },
+  "homepage": "https://github.com/fuadnafiz98/postgresql-pooling#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg": "^8.3.3"
+  }
+}
